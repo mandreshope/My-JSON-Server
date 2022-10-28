@@ -1,14 +1,532 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "receptions": [
+    {
+      "id": 1,
+      "is_posted": false,
+      "device_id": "QSR1.210802.001",
+      "id_fixed": "QSR1.210802.001_1",
+      "norme_id": 2,
+      "lot_producteur_id": 3,
+      "lot_producteur": {
+        "id": 3,
+        "name": "Bemanevika 2022",
+        "zone_collectes": [
+          {
+            "id": 8,
+            "nom": "Bemanevika",
+            "montant": null,
+            "campagne_id": null,
+            "created": "2021-09-02T14:21:47+03:00",
+            "modified": "2021-09-02T14:21:47+03:00",
+            "device_id": null,
+            "id_fixed": null,
+            "bureau_producteurs": [
+              {
+                "id": 35,
+                "name": "Antongopahitra",
+                "device_id": null,
+                "zone_collecte_id": 8,
+                "bureau_producteurs": null
+              },
+              {
+                "id": 36,
+                "name": "Bemanevika I",
+                "device_id": null,
+                "zone_collecte_id": 8,
+                "bureau_producteurs": null
+              },
+              {
+                "id": 37,
+                "name": "Ambatojoby",
+                "device_id": null,
+                "zone_collecte_id": 8,
+                "bureau_producteurs": null
+              },
+              {
+                "id": 38,
+                "name": "Bemanevika Ii",
+                "device_id": null,
+                "zone_collecte_id": 8,
+                "bureau_producteurs": null
+              }
+            ]
+          }
+        ],
+        "created": "2022-09-26T08:29:04+03:00",
+        "modified": "2022-09-26T08:29:04+03:00"
+      },
+      "created": "2022-10-29 00:20:00",
+      "modified": "2022-10-29 00:20:00",
+      "is_a_verifie": null,
+      "poids_total_verifie": 14.5,
+      "note_moyenne_generale": "6.125",
+      "producteur_id": 2561,
+      "producteur": {
+        "id": 2561,
+        "device_id": null,
+        "id_fixed": null,
+        "zone_collecte_id": 8,
+        "name": "BEVELO Claudinne",
+        "id_farmer_mcc": "5450VAMGA00625",
+        "date_inscpection": null,
+        "adresse": "ANTSAHAKAJOY",
+        "annee_naissance": 1970,
+        "sexe": false,
+        "cin": "  711,352,000,927   ",
+        "tel": "032 64 506 83",
+        "nbr_personne_famille": 4,
+        "nbr_efant": 2,
+        "habitat_id": 2,
+        "has_compte_banciare": true,
+        "nbr_indicape": 0,
+        "nbr_enfant_scolarise": "  1   ",
+        "alphabetsisation_id": 8,
+        "niveau_scolaire_id": 9,
+        "source_eaux_id": 3,
+        "nbr_travailleur_permant": 0,
+        "marque": "LON/ETB",
+        "controlleur_interne_id": 28,
+        "coordinateur_zone_id": 8,
+        "bureau_producteur_id": 36,
+        "code_pacerelle": "ETM/B1/BVK1/066/P1",
+        "latitude": "- 14.1883810",
+        "longitude": "50.0629200",
+        "lieu_parcelle_id": 1240,
+        "annee_plantation": 2010,
+        "surface_total_exploitation": "0.28",
+        "surface_parcelle": "0.28",
+        "nbr_pied_vanille": 933,
+        "nbr_pied_productifs": 103,
+        "etat_parcelle_id": 1,
+        "statut_ra_bio_id": 1,
+        "date_adhesion": "2017-01-03",
+        "fleur_fecondes": null,
+        "statut_bio_ffl_id": null,
+        "nbr_travailleur_temporaire": 0,
+        "code": "ETM/B1/BVK1/066",
+        "has_plaque_solaire": true,
+        "statut_bio_ffl": null,
+        "producteur_type_id": 1,
+        "statut_ra_bio": {
+          "id": 1,
+          "name": "Certifiée",
+          "device_id": null
+        },
+        "etat_parcelle": {
+          "id": 1,
+          "name": "Sain",
+          "device_id": null
+        },
+        "lieu_parcelle": {
+          "id": 1240,
+          "name": "Ambatomenavavq",
+          "device_id": null
+        },
+        "bureau_producteur": {
+          "id": 36,
+          "name": "Bemanevika I",
+          "device_id": null,
+          "zone_collecte_id": 8,
+          "bureau_producteurs": null
+        },
+        "coordinateur_zone": {
+          "id": 8,
+          "name": "NDRIANTSIHOARANA Anyssé",
+          "device_id": null
+        },
+        "controlleur_interne": {
+          "id": 28,
+          "name": "Betombo Jean Geraldo",
+          "device_id": null
+        },
+        "source_eaux": {
+          "id": 3,
+          "name": "Renirano",
+          "device_id": null
+        },
+        "niveau_scolaire": {
+          "id": 9,
+          "name": "Primaire",
+          "device_id": null
+        },
+        "alphabetsisation": {
+          "id": 8,
+          "name": "Mahay Mamaky Teny Sy  Manoratra",
+          "device_id": null
+        },
+        "habitat": {
+          "id": 2,
+          "name": "Moyen",
+          "device_id": null
+        },
+        "zone_collecte": {
+          "id": 8,
+          "nom": "Bemanevika",
+          "montant": null,
+          "campagne_id": null,
+          "created": "2021-09-02T14:21:47+03:00",
+          "modified": "2021-09-02T14:21:47+03:00",
+          "device_id": null,
+          "id_fixed": null,
+          "bureau_producteurs": [
+            {
+              "id": 35,
+              "name": "Antongopahitra",
+              "device_id": null,
+              "zone_collecte_id": 8,
+              "bureau_producteurs": null
+            },
+            {
+              "id": 36,
+              "name": "Bemanevika I",
+              "device_id": null,
+              "zone_collecte_id": 8,
+              "bureau_producteurs": null
+            },
+            {
+              "id": 37,
+              "name": "Ambatojoby",
+              "device_id": null,
+              "zone_collecte_id": 8,
+              "bureau_producteurs": null
+            },
+            {
+              "id": 38,
+              "name": "Bemanevika Ii",
+              "device_id": null,
+              "zone_collecte_id": 8,
+              "bureau_producteurs": null
+            }
+          ]
+        },
+        "producteur_type": {
+          "id": 8,
+          "name": null,
+          "device_id": null
+        }
+      },
+      "bureau_producteur_id": 36,
+      "bureau_producteur": {
+        "id": 36,
+        "name": "Bemanevika I",
+        "device_id": null,
+        "zone_collecte_id": 8,
+        "bureau_producteurs": null
+      },
+      "prix_fixe": null,
+      "prix_unitaire": 500,
+      "montant": 7250,
+      "evaluation_poid": {
+        "poids_25_gousse_13cm": "10.0",
+        "poids_moyen_13cm": "0.4",
+        "poids_25_gousse_cuts": "10.0",
+        "poids_moyen_cuts": "0.4",
+        "poids_moyen_general": "0.4",
+        "note": 2,
+        "reception_producteur_id": 1,
+        "created": "2022-10-29 00:35:00",
+        "modified": "2022-10-29 00:35:00",
+        "id": 1,
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "evaluation_visuel": {
+        "id": 1,
+        "reception_producteur_id": 1,
+        "note": 10,
+        "notation_visuel_id": 1,
+        "description": null,
+        "created": "2022-10-29 00:46:00",
+        "modified": "2022-10-29 00:46:00",
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "evaluation_odeur": {
+        "id": 1,
+        "reception_producteur_id": 1,
+        "notation_odeur_id": 1,
+        "note": 10,
+        "created": "2022-10-29 00:43:00",
+        "modified": "2022-10-29 00:43:00",
+        "description_odeur": "",
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "evaluation_taux_humidite_producteur": {
+        "id": 1,
+        "reception_producteur_id": 1,
+        "taux_humidite_producteur_id": 1,
+        "created": "2022-10-29 00:41:00",
+        "modified": "2022-10-29 00:41:00",
+        "note": 8,
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "evaluation_hygienne_vrac": {
+        "id": 1,
+        "reception_producteur_id": 1,
+        "is_contenant_propre": true,
+        "is_papier_parrafine": false,
+        "note": 6,
+        "created": "2022-10-29 00:08:00",
+        "modified": "2022-10-29 00:08:00",
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "evaluation_longueur": {
+        "id": 1,
+        "reception_producteur_id": 1,
+        "pourcentage_plus_13": "10.0",
+        "pourcentage_moins_13": "90.0",
+        "note": 0,
+        "created": "2022-10-29 00:51:00",
+        "modified": "2022-10-29 00:51:00",
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "note_verificateur": {
+        "nom_verificateur": "TESTER",
+        "id": 1,
+        "reception_producteur_id": 1,
+        "is_ok": true,
+        "note": 10,
+        "created": "2022-10-29 00:26:00",
+        "modified": "2022-10-29 00:26:00",
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "evaluation_plantation": {
+        "nbr_arbre": 45,
+        "note": 0,
+        "reception_producteur_id": 1,
+        "created": "2022-10-29 00:34:00",
+        "modified": "2022-10-29 00:34:00",
+        "id": 1,
+        "device_id": null,
+        "id_fixed": "QSR1.210802.001_1",
+        "is_applicable": true
+      },
+      "evaluation_note_education": {
+        "reception_producteur_id": 1,
+        "note_cps": [
+          {
+            "note": 10,
+            "id_fixed": "QSR1.210802.001_1"
+          }
+        ],
+        "moyenne_bulletin_cp": 10,
+        "note_cp": 10,
+        "note_lycees": [
+          {
+            "note": 15,
+            "id_fixed": "QSR1.210802.001_1"
+          }
+        ],
+        "moyenne_bulletin_lycee": 15,
+        "note_lycee": 7,
+        "note": 8.5,
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1",
+        "is_applicable": true
+      },
+      "zone_collecte_id": 8,
+      "zone_collecte": {
+        "id": 8,
+        "nom": "Bemanevika",
+        "montant": null,
+        "campagne_id": null,
+        "created": "2021-09-02T14:21:47+03:00",
+        "modified": "2021-09-02T14:21:47+03:00",
+        "device_id": null,
+        "id_fixed": null,
+        "bureau_producteurs": [
+          {
+            "id": 35,
+            "name": "Antongopahitra",
+            "device_id": null,
+            "zone_collecte_id": 8,
+            "bureau_producteurs": null
+          },
+          {
+            "id": 36,
+            "name": "Bemanevika I",
+            "device_id": null,
+            "zone_collecte_id": 8,
+            "bureau_producteurs": null
+          },
+          {
+            "id": 37,
+            "name": "Ambatojoby",
+            "device_id": null,
+            "zone_collecte_id": 8,
+            "bureau_producteurs": null
+          },
+          {
+            "id": 38,
+            "name": "Bemanevika Ii",
+            "device_id": null,
+            "zone_collecte_id": 8,
+            "bureau_producteurs": null
+          }
+        ]
+      },
+      "depots": [],
+      "evaluation_classement": {
+        "id": 1,
+        "reception_producteur_id": 1,
+        "notation_classement_id": 1,
+        "note": 9,
+        "created": "2022-10-29 00:38:00",
+        "modified": "2022-10-29 00:38:00",
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "stock_producteur": {
+        "id": 1,
+        "reception_producteur_id": 1,
+        "quantite_receptionne_producteurs": [
+          {
+            "id": 1,
+            "entree_id": 1,
+            "reception_producteur_id": 1,
+            "qualite_vanille_id": 27,
+            "nbr_bacs": 3,
+            "total_tare": 5.55,
+            "poids_net": 4.45,
+            "poids_brut": 10,
+            "created": "2022-10-29 00:53:00",
+            "modified": "2022-10-29 00:53:00",
+            "device_id": "QSR1.210802.001",
+            "id_fixed": "QSR1.210802.001_1",
+            "id_fixed_reception": "QSR1.210802.001_1",
+            "tares": [
+              {
+                "id": 1,
+                "recipient_id": 1,
+                "tare": 2.45,
+                "nbr": 1,
+                "created": "2022-10-29 00:53:00",
+                "modified": "2022-10-29 00:53:00",
+                "device_id": "QSR1.210802.001",
+                "id_fixed": "QSR1.210802.001_1",
+                "id_fixed_quantite_receptionne": "QSR1.210802.001_1"
+              },
+              {
+                "id": 2,
+                "recipient_id": 8,
+                "tare": 3.1,
+                "nbr": 2,
+                "created": "2022-10-29 00:53:00",
+                "modified": "2022-10-29 00:53:00",
+                "device_id": "QSR1.210802.001",
+                "id_fixed": "QSR1.210802.001_2",
+                "id_fixed_quantite_receptionne": "QSR1.210802.001_1"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "entree_id": 2,
+            "reception_producteur_id": 1,
+            "qualite_vanille_id": 27,
+            "nbr_bacs": 7,
+            "total_tare": 9.95,
+            "poids_net": 10.05,
+            "poids_brut": 20,
+            "created": "2022-10-29 00:53:00",
+            "modified": "2022-10-29 00:53:00",
+            "device_id": "QSR1.210802.001",
+            "id_fixed": "QSR1.210802.001_2",
+            "id_fixed_reception": "QSR1.210802.001_1",
+            "tares": [
+              {
+                "id": 3,
+                "recipient_id": 15,
+                "tare": 0.15000000000000002,
+                "nbr": 3,
+                "created": "2022-10-29 00:53:00",
+                "modified": "2022-10-29 00:53:00",
+                "device_id": "QSR1.210802.001",
+                "id_fixed": "QSR1.210802.001_3",
+                "id_fixed_quantite_receptionne": "QSR1.210802.001_2"
+              },
+              {
+                "id": 4,
+                "recipient_id": 1,
+                "tare": 9.8,
+                "nbr": 4,
+                "created": "2022-10-29 00:53:00",
+                "modified": "2022-10-29 00:53:00",
+                "device_id": "QSR1.210802.001",
+                "id_fixed": "QSR1.210802.001_4",
+                "id_fixed_quantite_receptionne": "QSR1.210802.001_2"
+              }
+            ]
+          }
+        ],
+        "total_nbr_bacs": 10,
+        "total_tare": 15.5,
+        "poids_net": 14.5,
+        "poids_brut": 30,
+        "poids": 14.5,
+        "prix_unitaire": 500,
+        "montant": 7250,
+        "created": "2022-10-29 00:53:00",
+        "modified": "2022-10-29 00:53:00",
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "campagne_id": 5,
+      "campagne": {
+        "id": 5,
+        "nom": "2022",
+        "date_debut": "2022-08-18",
+        "date_fin": "2023-08-18",
+        "created": "2022-08-18T12:19:28+03:00",
+        "modified": "2022-08-18T12:19:28+03:00",
+        "device_id": null,
+        "id_fixed": null
+      },
+      "sorty": {
+        "id": 1,
+        "reception_producteur_id": 1,
+        "nbr_emballage": 1,
+        "poids_brut": 500,
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "taux_fidelite": {
+        "id": 1,
+        "reception_producteur_id": 1,
+        "poids_estime": 100,
+        "poids_reel": 50,
+        "taux_fidelite": 50,
+        "note": 5,
+        "created": "2022-10-29 00:59:00",
+        "modified": "2022-10-29 00:59:00",
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      },
+      "naturelle_sous_vide": {
+        "id": 1,
+        "reception_producteur_id": 1,
+        "notation_naturelle_sous_vide_id": 1,
+        "note": 5,
+        "created": "2022-10-29 00:05:00",
+        "modified": "2022-10-29 00:05:00",
+        "device_id": "QSR1.210802.001",
+        "id_fixed": "QSR1.210802.001_1"
+      }
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "verificateurs": [
+    {
+      "nom": "TESTER",
+      "id": 1,
+      "created": "2022-10-29 00:10:00",
+      "modified": "2022-10-29 00:10:00",
+      "device_id": "QSR1.210802.001",
+      "id_fixed": "QSR1.210802.001_1"
+    }
+  ]
 }
