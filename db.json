@@ -17,29 +17,6 @@
       "prix_fixe": null,
       "prix_unitaire": 500,
       "montant": 7250,
-      "evaluation_note_education": {
-        "reception_producteur_id": 1,
-        "note_cps": [
-          {
-            "note": 10,
-            "id_fixed": "QSR1.210802.001_1"
-          }
-        ],
-        "moyenne_bulletin_cp": 10,
-        "note_cp": 10,
-        "note_lycees": [
-          {
-            "note": 15,
-            "id_fixed": "QSR1.210802.001_1"
-          }
-        ],
-        "moyenne_bulletin_lycee": 15,
-        "note_lycee": 7,
-        "note": 8.5,
-        "device_id": "QSR1.210802.001",
-        "id_fixed": "QSR1.210802.001_1",
-        "is_applicable": true
-      },
       "zone_collecte_id": 8,
       "depots": [],
       "stock_producteur": {
