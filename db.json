@@ -7,226 +7,16 @@
       "id_fixed": "QSR1.210802.001_1",
       "norme_id": 2,
       "lot_producteur_id": 3,
-      "lot_producteur": {
-        "id": 3,
-        "name": "Bemanevika 2022",
-        "zone_collectes": [
-          {
-            "id": 8,
-            "nom": "Bemanevika",
-            "montant": null,
-            "campagne_id": null,
-            "created": "2021-09-02T14:21:47+03:00",
-            "modified": "2021-09-02T14:21:47+03:00",
-            "device_id": null,
-            "id_fixed": null,
-            "bureau_producteurs": [
-              {
-                "id": 35,
-                "name": "Antongopahitra",
-                "device_id": null,
-                "zone_collecte_id": 8,
-                "bureau_producteurs": null
-              },
-              {
-                "id": 36,
-                "name": "Bemanevika I",
-                "device_id": null,
-                "zone_collecte_id": 8,
-                "bureau_producteurs": null
-              },
-              {
-                "id": 37,
-                "name": "Ambatojoby",
-                "device_id": null,
-                "zone_collecte_id": 8,
-                "bureau_producteurs": null
-              },
-              {
-                "id": 38,
-                "name": "Bemanevika Ii",
-                "device_id": null,
-                "zone_collecte_id": 8,
-                "bureau_producteurs": null
-              }
-            ]
-          }
-        ],
-        "created": "2022-09-26T08:29:04+03:00",
-        "modified": "2022-09-26T08:29:04+03:00"
-      },
       "created": "2022-10-29 00:20:00",
       "modified": "2022-10-29 00:20:00",
       "is_a_verifie": null,
       "poids_total_verifie": 14.5,
       "note_moyenne_generale": "6.125",
       "producteur_id": 2561,
-      "producteur": {
-        "id": 2561,
-        "device_id": null,
-        "id_fixed": null,
-        "zone_collecte_id": 8,
-        "name": "BEVELO Claudinne",
-        "id_farmer_mcc": "5450VAMGA00625",
-        "date_inscpection": null,
-        "adresse": "ANTSAHAKAJOY",
-        "annee_naissance": 1970,
-        "sexe": false,
-        "cin": "  711,352,000,927   ",
-        "tel": "032 64 506 83",
-        "nbr_personne_famille": 4,
-        "nbr_efant": 2,
-        "habitat_id": 2,
-        "has_compte_banciare": true,
-        "nbr_indicape": 0,
-        "nbr_enfant_scolarise": "  1   ",
-        "alphabetsisation_id": 8,
-        "niveau_scolaire_id": 9,
-        "source_eaux_id": 3,
-        "nbr_travailleur_permant": 0,
-        "marque": "LON/ETB",
-        "controlleur_interne_id": 28,
-        "coordinateur_zone_id": 8,
-        "bureau_producteur_id": 36,
-        "code_pacerelle": "ETM/B1/BVK1/066/P1",
-        "latitude": "- 14.1883810",
-        "longitude": "50.0629200",
-        "lieu_parcelle_id": 1240,
-        "annee_plantation": 2010,
-        "surface_total_exploitation": "0.28",
-        "surface_parcelle": "0.28",
-        "nbr_pied_vanille": 933,
-        "nbr_pied_productifs": 103,
-        "etat_parcelle_id": 1,
-        "statut_ra_bio_id": 1,
-        "date_adhesion": "2017-01-03",
-        "fleur_fecondes": null,
-        "statut_bio_ffl_id": null,
-        "nbr_travailleur_temporaire": 0,
-        "code": "ETM/B1/BVK1/066",
-        "has_plaque_solaire": true,
-        "statut_bio_ffl": null,
-        "producteur_type_id": 1,
-        "statut_ra_bio": {
-          "id": 1,
-          "name": "Certifiée",
-          "device_id": null
-        },
-        "etat_parcelle": {
-          "id": 1,
-          "name": "Sain",
-          "device_id": null
-        },
-        "lieu_parcelle": {
-          "id": 1240,
-          "name": "Ambatomenavavq",
-          "device_id": null
-        },
-        "bureau_producteur": {
-          "id": 36,
-          "name": "Bemanevika I",
-          "device_id": null,
-          "zone_collecte_id": 8,
-          "bureau_producteurs": null
-        },
-        "coordinateur_zone": {
-          "id": 8,
-          "name": "NDRIANTSIHOARANA Anyssé",
-          "device_id": null
-        },
-        "controlleur_interne": {
-          "id": 28,
-          "name": "Betombo Jean Geraldo",
-          "device_id": null
-        },
-        "source_eaux": {
-          "id": 3,
-          "name": "Renirano",
-          "device_id": null
-        },
-        "niveau_scolaire": {
-          "id": 9,
-          "name": "Primaire",
-          "device_id": null
-        },
-        "alphabetsisation": {
-          "id": 8,
-          "name": "Mahay Mamaky Teny Sy  Manoratra",
-          "device_id": null
-        },
-        "habitat": {
-          "id": 2,
-          "name": "Moyen",
-          "device_id": null
-        },
-        "zone_collecte": {
-          "id": 8,
-          "nom": "Bemanevika",
-          "montant": null,
-          "campagne_id": null,
-          "created": "2021-09-02T14:21:47+03:00",
-          "modified": "2021-09-02T14:21:47+03:00",
-          "device_id": null,
-          "id_fixed": null,
-          "bureau_producteurs": [
-            {
-              "id": 35,
-              "name": "Antongopahitra",
-              "device_id": null,
-              "zone_collecte_id": 8,
-              "bureau_producteurs": null
-            },
-            {
-              "id": 36,
-              "name": "Bemanevika I",
-              "device_id": null,
-              "zone_collecte_id": 8,
-              "bureau_producteurs": null
-            },
-            {
-              "id": 37,
-              "name": "Ambatojoby",
-              "device_id": null,
-              "zone_collecte_id": 8,
-              "bureau_producteurs": null
-            },
-            {
-              "id": 38,
-              "name": "Bemanevika Ii",
-              "device_id": null,
-              "zone_collecte_id": 8,
-              "bureau_producteurs": null
-            }
-          ]
-        },
-        "producteur_type": {
-          "id": 8,
-          "name": null,
-          "device_id": null
-        }
-      },
       "bureau_producteur_id": 36,
-      "bureau_producteur": {
-        "id": 36,
-        "name": "Bemanevika I",
-        "device_id": null,
-        "zone_collecte_id": 8,
-        "bureau_producteurs": null
-      },
       "prix_fixe": null,
       "prix_unitaire": 500,
       "montant": 7250,
-      "note_verificateur": {
-        "nom_verificateur": "TESTER",
-        "id": 1,
-        "reception_producteur_id": 1,
-        "is_ok": true,
-        "note": 10,
-        "created": "2022-10-29 00:26:00",
-        "modified": "2022-10-29 00:26:00",
-        "device_id": "QSR1.210802.001",
-        "id_fixed": "QSR1.210802.001_1"
-      },
       "evaluation_note_education": {
         "reception_producteur_id": 1,
         "note_cps": [
@@ -251,46 +41,6 @@
         "is_applicable": true
       },
       "zone_collecte_id": 8,
-      "zone_collecte": {
-        "id": 8,
-        "nom": "Bemanevika",
-        "montant": null,
-        "campagne_id": null,
-        "created": "2021-09-02T14:21:47+03:00",
-        "modified": "2021-09-02T14:21:47+03:00",
-        "device_id": null,
-        "id_fixed": null,
-        "bureau_producteurs": [
-          {
-            "id": 35,
-            "name": "Antongopahitra",
-            "device_id": null,
-            "zone_collecte_id": 8,
-            "bureau_producteurs": null
-          },
-          {
-            "id": 36,
-            "name": "Bemanevika I",
-            "device_id": null,
-            "zone_collecte_id": 8,
-            "bureau_producteurs": null
-          },
-          {
-            "id": 37,
-            "name": "Ambatojoby",
-            "device_id": null,
-            "zone_collecte_id": 8,
-            "bureau_producteurs": null
-          },
-          {
-            "id": 38,
-            "name": "Bemanevika Ii",
-            "device_id": null,
-            "zone_collecte_id": 8,
-            "bureau_producteurs": null
-          }
-        ]
-      },
       "depots": [],
       "stock_producteur": {
         "id": 1,
@@ -387,17 +137,7 @@
         "device_id": "QSR1.210802.001",
         "id_fixed": "QSR1.210802.001_1"
       },
-      "campagne_id": 5,
-      "campagne": {
-        "id": 5,
-        "nom": "2022",
-        "date_debut": "2022-08-18",
-        "date_fin": "2023-08-18",
-        "created": "2022-08-18T12:19:28+03:00",
-        "modified": "2022-08-18T12:19:28+03:00",
-        "device_id": null,
-        "id_fixed": null
-      }
+      "campagne_id": 5
     }
   ]
 }
