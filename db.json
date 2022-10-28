@@ -24,45 +24,6 @@
         "reception_producteur_id": 1,
         "quantite_receptionne_producteurs": [
           {
-            "id": 1,
-            "entree_id": 1,
-            "reception_producteur_id": 1,
-            "qualite_vanille_id": 27,
-            "nbr_bacs": 3,
-            "total_tare": 5.55,
-            "poids_net": 4.45,
-            "poids_brut": 10,
-            "created": "2022-10-29 00:53:00",
-            "modified": "2022-10-29 00:53:00",
-            "device_id": "QSR1.210802.001",
-            "id_fixed": "QSR1.210802.001_1",
-            "id_fixed_reception": "QSR1.210802.001_1",
-            "tares": [
-              {
-                "id": 1,
-                "recipient_id": 1,
-                "tare": 2.45,
-                "nbr": 1,
-                "created": "2022-10-29 00:53:00",
-                "modified": "2022-10-29 00:53:00",
-                "device_id": "QSR1.210802.001",
-                "id_fixed": "QSR1.210802.001_1",
-                "id_fixed_quantite_receptionne": "QSR1.210802.001_1"
-              },
-              {
-                "id": 2,
-                "recipient_id": 8,
-                "tare": 3.1,
-                "nbr": 2,
-                "created": "2022-10-29 00:53:00",
-                "modified": "2022-10-29 00:53:00",
-                "device_id": "QSR1.210802.001",
-                "id_fixed": "QSR1.210802.001_2",
-                "id_fixed_quantite_receptionne": "QSR1.210802.001_1"
-              }
-            ]
-          },
-          {
             "id": 2,
             "entree_id": 2,
             "reception_producteur_id": 1,
@@ -86,17 +47,6 @@
                 "modified": "2022-10-29 00:53:00",
                 "device_id": "QSR1.210802.001",
                 "id_fixed": "QSR1.210802.001_3",
-                "id_fixed_quantite_receptionne": "QSR1.210802.001_2"
-              },
-              {
-                "id": 4,
-                "recipient_id": 1,
-                "tare": 9.8,
-                "nbr": 4,
-                "created": "2022-10-29 00:53:00",
-                "modified": "2022-10-29 00:53:00",
-                "device_id": "QSR1.210802.001",
-                "id_fixed": "QSR1.210802.001_4",
                 "id_fixed_quantite_receptionne": "QSR1.210802.001_2"
               }
             ]
