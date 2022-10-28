@@ -230,28 +230,6 @@
         "device_id": "QSR1.210802.001",
         "id_fixed": "QSR1.210802.001_1"
       },
-      "evaluation_visuel": {
-        "id": 1,
-        "reception_producteur_id": 1,
-        "note": 10,
-        "notation_visuel_id": 1,
-        "description": null,
-        "created": "2022-10-29 00:46:00",
-        "modified": "2022-10-29 00:46:00",
-        "device_id": "QSR1.210802.001",
-        "id_fixed": "QSR1.210802.001_1"
-      },
-      "evaluation_odeur": {
-        "id": 1,
-        "reception_producteur_id": 1,
-        "notation_odeur_id": 1,
-        "note": 10,
-        "created": "2022-10-29 00:43:00",
-        "modified": "2022-10-29 00:43:00",
-        "description_odeur": "",
-        "device_id": "QSR1.210802.001",
-        "id_fixed": "QSR1.210802.001_1"
-      },
       "evaluation_taux_humidite_producteur": {
         "id": 1,
         "reception_producteur_id": 1,
@@ -486,36 +464,6 @@
         "modified": "2022-08-18T12:19:28+03:00",
         "device_id": null,
         "id_fixed": null
-      },
-      "sorty": {
-        "id": 1,
-        "reception_producteur_id": 1,
-        "nbr_emballage": 1,
-        "poids_brut": 500,
-        "device_id": "QSR1.210802.001",
-        "id_fixed": "QSR1.210802.001_1"
-      },
-      "taux_fidelite": {
-        "id": 1,
-        "reception_producteur_id": 1,
-        "poids_estime": 100,
-        "poids_reel": 50,
-        "taux_fidelite": 50,
-        "note": 5,
-        "created": "2022-10-29 00:59:00",
-        "modified": "2022-10-29 00:59:00",
-        "device_id": "QSR1.210802.001",
-        "id_fixed": "QSR1.210802.001_1"
-      },
-      "naturelle_sous_vide": {
-        "id": 1,
-        "reception_producteur_id": 1,
-        "notation_naturelle_sous_vide_id": 1,
-        "note": 5,
-        "created": "2022-10-29 00:05:00",
-        "modified": "2022-10-29 00:05:00",
-        "device_id": "QSR1.210802.001",
-        "id_fixed": "QSR1.210802.001_1"
       }
     }
   ],
