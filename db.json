@@ -399,15 +399,5 @@
         "id_fixed": null
       }
     }
-  ],
-  "verificateurs": [
-    {
-      "nom": "TESTER",
-      "id": 1,
-      "created": "2022-10-29 00:10:00",
-      "modified": "2022-10-29 00:10:00",
-      "device_id": "QSR1.210802.001",
-      "id_fixed": "QSR1.210802.001_1"
-    }
   ]
 }
