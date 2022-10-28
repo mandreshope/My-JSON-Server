@@ -230,38 +230,6 @@
         "device_id": "QSR1.210802.001",
         "id_fixed": "QSR1.210802.001_1"
       },
-      "evaluation_taux_humidite_producteur": {
-        "id": 1,
-        "reception_producteur_id": 1,
-        "taux_humidite_producteur_id": 1,
-        "created": "2022-10-29 00:41:00",
-        "modified": "2022-10-29 00:41:00",
-        "note": 8,
-        "device_id": "QSR1.210802.001",
-        "id_fixed": "QSR1.210802.001_1"
-      },
-      "evaluation_hygienne_vrac": {
-        "id": 1,
-        "reception_producteur_id": 1,
-        "is_contenant_propre": true,
-        "is_papier_parrafine": false,
-        "note": 6,
-        "created": "2022-10-29 00:08:00",
-        "modified": "2022-10-29 00:08:00",
-        "device_id": "QSR1.210802.001",
-        "id_fixed": "QSR1.210802.001_1"
-      },
-      "evaluation_longueur": {
-        "id": 1,
-        "reception_producteur_id": 1,
-        "pourcentage_plus_13": "10.0",
-        "pourcentage_moins_13": "90.0",
-        "note": 0,
-        "created": "2022-10-29 00:51:00",
-        "modified": "2022-10-29 00:51:00",
-        "device_id": "QSR1.210802.001",
-        "id_fixed": "QSR1.210802.001_1"
-      },
       "note_verificateur": {
         "nom_verificateur": "TESTER",
         "id": 1,
@@ -272,17 +240,6 @@
         "modified": "2022-10-29 00:26:00",
         "device_id": "QSR1.210802.001",
         "id_fixed": "QSR1.210802.001_1"
-      },
-      "evaluation_plantation": {
-        "nbr_arbre": 45,
-        "note": 0,
-        "reception_producteur_id": 1,
-        "created": "2022-10-29 00:34:00",
-        "modified": "2022-10-29 00:34:00",
-        "id": 1,
-        "device_id": null,
-        "id_fixed": "QSR1.210802.001_1",
-        "is_applicable": true
       },
       "evaluation_note_education": {
         "reception_producteur_id": 1,
